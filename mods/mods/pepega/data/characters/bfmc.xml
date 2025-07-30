@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" y="-70" sprite="bfmc" scale="1.7" flipX="true" camx="800" camy="100" antialiasing="false" isPlayer="true" icon="face" color="#0089FF">
+	<anim name="idle" anim="bfmc idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bfmc left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bfmc right" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="bfmc up" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bfmc down" x="0" y="0" fps="24" loop="false"/>
+</character>
